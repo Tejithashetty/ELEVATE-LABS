@@ -14,7 +14,7 @@ Columns: 29
 
 Missing values: Only in the Income column (24 missing entries).
 
-Potential clean-up areas:
+## opertions perfomed in this task for potential cleanup
 
 - Missing values in Income
 
@@ -26,14 +26,7 @@ Potential clean-up areas:
 
 - Data type consistency (e.g., Dt_Customer is a string, should be datetime)
 
-## opertions perfomed in this task
-- importing the dataset
-- studying the dataset
-- Datacleaning
-    - removing duplicates and missing values
-    - conerting date formats
-    - cleaning column headers
-    - Ensuring proper datatypes
+
 
 ## Summary of Cleaning:
 
